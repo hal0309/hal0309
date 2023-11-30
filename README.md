@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 ### Skills
 
+---
 <img src="https://skillicons.dev/icons?i=kotlin,java,gradle,mysql,py,pytorch,c,cpp,html,css,js,spring,react,androidstudio,idea,vscode,postman,git,github,arduino,ps,ae,ai,xd" /> <br /><br />
