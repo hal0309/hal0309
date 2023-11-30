@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hal0309/hal0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=hal0309&count_private=true&show_icons=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hal0309&count_private=true"/>
-</a>
+<p>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hal0309&count_private=true&show_icons=true&theme=graywhite"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hal0309&count_private=true&theme=graywhite"/>
+</p>
+
+
+### Skills
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,gradle,mysql,py,pytorch,c,cpp,html,css,js,spring,react,androidstudio,idea,vscode,postman,git,github,arduino,ps,ae,ai,xd" /> <br /><br />
